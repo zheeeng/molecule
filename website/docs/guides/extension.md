@@ -11,7 +11,7 @@ sidebar_label: Extension
 
 Molecule 支持你使用**字面量**或者 **class** 关键字的方式来定义扩展对象，具体看开发者自己的偏好。
 
-### 自面量对象
+### 字面量对象
 
 ```ts
 import { IContributeType, IExtension } from '@dtinsight/molecule/esm/model';
